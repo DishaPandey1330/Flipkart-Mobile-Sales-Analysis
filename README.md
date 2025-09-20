@@ -63,5 +63,4 @@ Implement dashboards for brand performance analysis.
 * Author
 Developed by [Disha pandey] ✨ This project is for educational purposes, focusing on SQL practice with e-commerce datasets.
 Expand dataset to include other Flipkart product categories.
-👨‍💻 Author
-Developed by [Piyush Thool] ✨ This project is for educational purposes, focusing on SQL practice with e-commerce datasets.
+
